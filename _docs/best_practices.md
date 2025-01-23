@@ -1,7 +1,7 @@
 # Best Practices
 
 Collection of practices to increase efficiency and maintainability of your
-project and codebase. These guidelines are generally agreed uponto be the most 
+project and codebase. These guidelines are generally agreed upon to be the most 
 flexible and 'correct' solutions. They are, however, not the only solution
 and you may choose to follow different guidelines for one reason or another.
 What's important is that your code and organization remain *consistent*.
